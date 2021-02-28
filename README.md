@@ -1,1 +1,2 @@
-# plinko-with-score1
+# Project 31 : Plinko
+Project 31 for WhiteHat
